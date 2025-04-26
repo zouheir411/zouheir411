@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zouheir411.zouheir411&"  />
+  <img src="https://profile-counter.glitch.me/zouheir411/count.svg?"  />
 </div>
 
 ###
@@ -102,11 +102,21 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zouheir411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=zouheir411&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/zouheir411/zouheir411/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zouheir411/zouheir411/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zouheir411/zouheir411/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zouheir411/zouheir411/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
